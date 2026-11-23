@@ -1,7 +1,7 @@
 # TEDx Jabal Tareq — Technical Case Study
 
 <p align="center">
-  <strong>Engineering a Digital Platform for TEDx Jabal Tareq</strong>
+  <strong>Engineering a Digital Platform for TEDx Jabal Tareq</strong> 
 </p>
 
 <p align="center">
